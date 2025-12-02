@@ -2,7 +2,7 @@ _Temporal repository for peer review process (journal: Ecology)_
 
 __Manuscript:__ 
 
-## Temporal dynamics of seed-dispersal networks: Disentangling the role of direct and indirect biotic and climatic processes.
+## Temporal dynamics of seed-dispersal networks: Disentangling the role of direct and indirect biotic and climatic effects.
 
 __Authors:__ 
 
