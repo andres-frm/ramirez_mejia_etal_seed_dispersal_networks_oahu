@@ -12,5 +12,12 @@ This repository holds the `R` script needed to reproduce data wrangling, modelin
 
 __File description:__
 
+`appendix_S1.pdf`: Annotated code for data cleaning and climatic variable estimation.
+`raw_code_appendix_S1.r`: The raw `R` script source file for `appendix_S1.pdf`.
+\\
+`appendix_S2.pdf`: Annotated code for data cleaning and climatic variable estimation.
+`raw_code_appendix_S2.r`: The raw `R` script source file for `appendix_S2.pdf`.
+
+
 
 
