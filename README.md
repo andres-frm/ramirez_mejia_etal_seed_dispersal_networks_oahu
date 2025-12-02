@@ -12,21 +12,17 @@ This repository contains the `R` scripts needed to reproduce the data wrangling,
 
 __File description:__
 
-`appendix_S1.pdf`: Annotated code for data cleaning and climatic variable estimation.
-`raw_code_appendix_S1.r`: The raw `R` script source file for `appendix_S1.pdf`.
+-  `appendix_S1.pdf`: Annotated code for data cleaning and climatic variable estimation.
+-  `raw_code_appendix_S1.r`: The raw `R` script source file for `appendix_S1.pdf`.
 
-`appendix_S2.pdf`: Annotated code for estimating fruiting phenological variables.
-`raw_code_appendix_S2.r`: The raw `R` script source file for `appendix_S2.pdf`.
+-  `appendix_S2.pdf`: Annotated code for estimating fruiting phenological variables.
+-  `raw_code_appendix_S2.r`: The raw `R` script source file for `appendix_S2.pdf`.
 
-`appendix_S3.pdf`: Annotated code for fitting models of functional traits and generating posterior predictive simulations.
-`raw_code_appendix_S3.r`: The raw `R` script source file for `appendix_S3.pdf`.
+-  `appendix_S3.pdf`: Annotated code for fitting models of functional traits and generating posterior predictive simulations.
+-  `raw_code_appendix_S3.r`: The raw `R` script source file for `appendix_S3.pdf`.
 
-`appendix_S4.pdf`: Annotated code for estimating the interaction functional space and network metrics.
-`raw_code_appendix_S4.r`: The raw `R` script source file for `appendix_S4.pdf`.
+-  `appendix_S4.pdf`: Annotated code for estimating the interaction functional space and network metrics.
+-  `raw_code_appendix_S4.r`: The raw `R` script source file for `appendix_S4.pdf`.
 
-`appendix_S5.pdf`: Annotated code for fitting Bayesian network models.
-`raw_code_appendix_S5.r`: The raw `R` script source file for `appendix_S5.pdf`.
-
-
-
-
+-  `appendix_S5.pdf`: Annotated code for fitting Bayesian network models.
+-  `raw_code_appendix_S5.r`: The raw `R` script source file for `appendix_S5.pdf`.
